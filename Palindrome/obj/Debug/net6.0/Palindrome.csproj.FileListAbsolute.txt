@@ -1,0 +1,15 @@
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/Palindrome/bin/Debug/net6.0/Palindrome
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/Palindrome/bin/Debug/net6.0/Palindrome.deps.json
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/Palindrome/bin/Debug/net6.0/Palindrome.runtimeconfig.json
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/Palindrome/bin/Debug/net6.0/Palindrome.dll
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/Palindrome/bin/Debug/net6.0/Palindrome.pdb
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/Palindrome/obj/Debug/net6.0/Palindrome.csproj.AssemblyReference.cache
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/Palindrome/obj/Debug/net6.0/Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/Palindrome/obj/Debug/net6.0/Palindrome.AssemblyInfoInputs.cache
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/Palindrome/obj/Debug/net6.0/Palindrome.AssemblyInfo.cs
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/Palindrome/obj/Debug/net6.0/Palindrome.csproj.CoreCompileInputs.cache
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/Palindrome/obj/Debug/net6.0/Palindrome.dll
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/Palindrome/obj/Debug/net6.0/refint/Palindrome.dll
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/Palindrome/obj/Debug/net6.0/Palindrome.pdb
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/Palindrome/obj/Debug/net6.0/Palindrome.genruntimeconfig.cache
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/Palindrome/obj/Debug/net6.0/ref/Palindrome.dll

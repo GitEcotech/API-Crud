@@ -1,0 +1,16 @@
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/HelloWorld/bin/Debug/net5.0/HelloWorld
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.AssemblyReference.cache
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache
+/home/bhagyashree/Desktop/angular practice/DotNet/Practice/HelloWorld/obj/Debug/net5.0/refint/HelloWorld.dll
